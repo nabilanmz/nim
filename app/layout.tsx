@@ -14,14 +14,16 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://nim-fawn.vercel.app/'),
   alternates: {
-    canonical: '/'
+    canonical: '/',
   },
   title: {
-    default: 'Nim - Personal website template',
-    template: '%s | Nim'
+    default: 'Nabila Zaid',
+    template: '%s | Nabila Zaid',
   },
-  description:  'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
-};
+  description:
+    'Nabila Zaid is a Computer Science student at Multimedia University, Malaysia. She is passionate about web development and design, with a focus on creating beautiful and functional user interfaces.',
+  // 'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
+}
 
 const geist = Geist({
   variable: '--font-geist',
