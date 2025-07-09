@@ -221,7 +221,7 @@ export default function Personal() {
           {EXPERIENCE.map((job) => (
             <a
               className="relative overflow-hidden rounded-2xl bg-zinc-300/30 p-[1px] dark:bg-zinc-600/30"
-              href={job.link}
+              href={job.link !== '' ? job.link : undefined}
               target="_blank"
               rel="noopener noreferrer"
               key={job.id}

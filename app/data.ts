@@ -98,7 +98,7 @@ export const EXPERIENCE: Experience[] = [
     title: 'Closed Category Participant',
     start: 'Nov 2024',
     end: '',
-    // link: '',
+    link: '',
     id: 'work1',
   },
   {
@@ -106,7 +106,7 @@ export const EXPERIENCE: Experience[] = [
     title: 'Assistant Head of Programme Division',
     start: 'Sep 2023',
     end: 'Dec 2023',
-    // link: '',
+    link: '',
     id: 'work2',
   },
   {
@@ -114,7 +114,7 @@ export const EXPERIENCE: Experience[] = [
     title: 'Student Engagement Division Member',
     start: 'Mar 2023',
     end: 'Feb 2024',
-    // link: '',
+    link: '',
     id: 'work3',
   },
 ]
