@@ -41,7 +41,7 @@ export const PROJECTS: Project[] = [
     name: 'duual',
     description:
       'Web app to create a near-optimal timetable from classes in database based on preferences.',
-    link: 'https://pro.motion-primitives.com/',
+    link: 'https://github.com/nabilanmz/timetable-api',
     video:
       'https://ucarecdn.com/a75e4b38-2877-4e5c-a814-ac28a8a12b7e/',
     id: 'project1',
@@ -54,6 +54,15 @@ export const PROJECTS: Project[] = [
     'https://ucarecdn.com/cd6bf24f-fba6-4d1e-a5f7-a37bff2ccd03/',
     id: 'project3',
   },
+  {
+    // name: 'mögo',
+    name: 'foodshare',
+    description: 'Web app to give, sell, or group order food.',
+    link: 'https://github.com/nabilanmz/foodshare',
+    video:
+      'https://ucarecdn.com/7dd3cfa9-352a-4804-a92c-2e13d7066f66/ScreenRecording20250708at71355PM.mov',
+    id: 'project2',
+  },
   // {
   //   name: 'Property Rental Predictor',
   //   description: 'Interactive Tableau dashboard presenting coffee sales data.',
@@ -62,15 +71,6 @@ export const PROJECTS: Project[] = [
   //     'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
   //   id: 'project3',
   // },
-  {
-    // name: 'mögo',
-    name: 'foodshare',
-    description: 'Web app to give, sell, or group order food.',
-    link: 'https://motion-primitives.com/',
-    video:
-      'https://ucarecdn.com/7dd3cfa9-352a-4804-a92c-2e13d7066f66/ScreenRecording20250708at71355PM.mov',
-    id: 'project2',
-  },
 ]
 
 export const EDUCATION: Education[] = [
