@@ -47,20 +47,20 @@ export const PROJECTS: Project[] = [
     id: 'project1',
   },
   {
-    name: 'Coffee Analytics',
-    description: 'Dashboard presenting coffee trends for insights on user demand, regional consumption, and trade patterns.',
-    link: 'https://motion-primitives.com/',
-    video:
-    'https://ucarecdn.com/cd6bf24f-fba6-4d1e-a5f7-a37bff2ccd03/',
-    id: 'project3',
-  },
-  {
     // name: 'mögo',
     name: 'foodshare',
     description: 'Web app to give, sell, or group order food.',
     link: 'https://github.com/nabilanmz/foodshare',
     video:
-      'https://ucarecdn.com/7dd3cfa9-352a-4804-a92c-2e13d7066f66/ScreenRecording20250708at71355PM.mov',
+    'https://ucarecdn.com/7dd3cfa9-352a-4804-a92c-2e13d7066f66/ScreenRecording20250708at71355PM.mov',
+    id: 'project3',
+  },
+  {
+    name: 'Coffee Analytics',
+    description: 'Dashboard presenting coffee trends for insights on user demand, regional consumption, and trade patterns.',
+    link: '',
+    video:
+    'https://ucarecdn.com/cd6bf24f-fba6-4d1e-a5f7-a37bff2ccd03/',
     id: 'project2',
   },
   // {
@@ -69,7 +69,7 @@ export const PROJECTS: Project[] = [
   //   link: 'https://motion-primitives.com/',
   //   video:
   //     'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
-  //   id: 'project3',
+  //   id: 'project4',
   // },
 ]
 
@@ -148,6 +148,8 @@ export const BLOG_POSTS: BlogPost[] = [
   },
 ]
 
+export const EMAIL = 'nabilanmzaid@gmail.com'
+
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'GitHub',
@@ -157,6 +159,13 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'LinkedIn',
     link: 'https://www.linkedin.com/in/nabilanmz',
   },
+  {
+    label: 'Email',
+    link: `mailto:${EMAIL}`,
+  },
+  {
+    label: 'Resume',
+    link: 'https://ucarecdn.com/2877a1a0-62ea-4058-bb46-a389af4e46f5/',
+  },
 ]
 
-export const EMAIL = 'nabilanmzaid@gmail.com'
