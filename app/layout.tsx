@@ -20,8 +20,7 @@ export const metadata: Metadata = {
     default: 'Nabila Zaid',
     template: '%s | Nabila Zaid',
   },
-  description:
-    'Nabila Zaid is a Computer Science student at Multimedia University, Malaysia. She is passionate about web development and design, with a focus on creating beautiful and functional user interfaces.',
+  description: 'I like pretty interfaces.',
   // 'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
 }
 

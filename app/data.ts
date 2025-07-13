@@ -40,7 +40,7 @@ export const PROJECTS: Project[] = [
   {
     name: 'duual',
     description:
-      'Web app to create a near-optimal timetable from classes in database based on preferences.',
+      'Create timetable from classes in database based on preferences. DEAP, React, Laravel, MySQL.',
     link: 'https://github.com/nabilanmz/timetable-api',
     video:
       'https://ucarecdn.com/a75e4b38-2877-4e5c-a814-ac28a8a12b7e/',
@@ -49,7 +49,7 @@ export const PROJECTS: Project[] = [
   {
     // name: 'mögo',
     name: 'foodshare',
-    description: 'Web app to give, sell, or group order food.',
+    description: 'Give, sell, or group order food. Flask.',
     link: 'https://github.com/nabilanmz/foodshare',
     video:
     'https://ucarecdn.com/7dd3cfa9-352a-4804-a92c-2e13d7066f66/ScreenRecording20250708at71355PM.mov',
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
   },
   {
     name: 'Coffee Analytics',
-    description: 'Dashboard presenting coffee trends for insights on user demand, regional consumption, and trade patterns.',
+    description: 'Coffee trends for insights on user demand, regional consumption, and trade patterns. Tableau.',
     link: '',
     video:
     'https://ucarecdn.com/cd6bf24f-fba6-4d1e-a5f7-a37bff2ccd03/',
